@@ -1,3 +1,6 @@
+## 🚀 Cómo ejecutar
+[![Karate API Tests](https://github.com/gabrielfernandez8786-stack/karate-onpe-api-tests/actions/workflows/karate-tests.yml/badge.svg)](https://github.com/gabrielfernandez8786-stack/karate-onpe-api-tests/actions/workflows/karate-tests.yml)
+
 # Karate API Tests - ONPE
 
 ## 📌 Descripción
@@ -19,6 +22,3 @@ Framework de pruebas de API utilizando **Karate Framework** para validar los ser
 | Obtener provincias de Lambayeque | ✅ |
 | Obtener provincias de Lima | ✅ |
 | Obtener distritos de Chiclayo | ✅ |
-
-## 🚀 Cómo ejecutar
-[![Karate API Tests](https://github.com/gabrielfernandez8786-stack/karate-onpe-api-tests/actions/workflows/karate-tests.yml/badge.svg)](https://github.com/gabrielfernandez8786-stack/karate-onpe-api-tests/actions/workflows/karate-tests.yml)
