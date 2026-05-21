@@ -21,6 +21,4 @@ Framework de pruebas de API utilizando **Karate Framework** para validar los ser
 | Obtener distritos de Chiclayo | ✅ |
 
 ## 🚀 Cómo ejecutar
-```bash
-mvn clean test
 [![Karate API Tests](https://github.com/gabrielfernandez8786-stack/karate-onpe-api-tests/actions/workflows/karate-tests.yml/badge.svg)](https://github.com/gabrielfernandez8786-stack/karate-onpe-api-tests/actions/workflows/karate-tests.yml)
